@@ -1,1 +1,1 @@
-# Pokemon-Emerald-Battle-Engine-Upgrade
+# Pokemon-FireRed-Battle-Engine-Upgrade
