@@ -225,7 +225,7 @@ type_names 08059C24
 type_names 0814F740
 type_names 081D2A30
 ### moxie battlescript
-moxie_bs 08049C8C
+moxie_bs 080213DC  /* updated */
 ##### battle animation backgrounds
 battle_anim_bg_table 080A5038
 battle_anim_bg_table 080A5084
