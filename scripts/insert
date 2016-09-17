@@ -18,7 +18,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--offset', metavar='offset', type=int, 
                     help='offset to insert at', default=0xF00000)
 parser.add_argument('--input', metavar='file', 
-                    help='input filename', default='BPEE0.gba')
+                    help='input filename', default='BPRE0.gba')
 parser.add_argument('--output', metavar='file', 
                     help='output filename', default='test.gba')
 parser.add_argument('--debug', action='store_true',
