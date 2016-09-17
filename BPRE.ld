@@ -1,5 +1,5 @@
 battle_turn_random_no = 0x02024330;
-last_used_ability = 0x0202420A;
+last_used_ability = 0x02023D6A; /* updated */
 last_used_item = 0x02024208;
 hitmarker = 0x02024280;
 battle_participants = 0x02024084;
@@ -32,11 +32,11 @@ battle_team_id_by_side = 0x0202406E;
 battle_execution_buffer = 0x02024068;
 menu_choice_pbs = 0x202421C;
 
-bank_attacker = 0x0202420B;
-bank_target = 0x0202420C;
-bank_partner_atk = 0x0202420D;
-bank_partner_def = 0x0202420E;
-turn_order = 0x0202407E;
+bank_attacker = 0x02023D6B; /* updated */
+bank_target = 0x02023D6C; /* updated */
+bank_partner_atk = 0x02023D6D; /* updated */
+bank_partner_def = 0x02023D6E; /* updated */
+turn_order = 0x02023BDE; /* updated */
 battle_flags = 0x02022FEC;
 battle_communication_struct = 0x02024332;
 animation_bank_attacker = 0x02038436; 
@@ -57,7 +57,7 @@ last_used_moves = 0x02024248;
 dynamic_base_power = 0x02024400;
 damage_loc = 0x020241F0;
 unk_3005D04 = 0x03005D04;
-effect_chooser = 0x02024335;
+effect_chooser = 0x02023E85; /* updated */
 stat_changer = 0x202448E;
 no_of_all_banks = 0x0202406C;
 special_statuses = 0x0202437C;
@@ -207,4 +207,4 @@ evo_table_ptr_ptr = 0x806D140;
 poke_stat_table_ptr_ptr = 0x80001BC;
 
 /*Expandable tables*/
-battle_strings_table = 0x085CC270;
+battle_strings_table = 0x083FDF3C; /* updated */
