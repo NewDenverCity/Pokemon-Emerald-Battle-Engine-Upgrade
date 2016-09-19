@@ -40,7 +40,7 @@
 ## spite always taking 4pp
 080532EA 04 20 00 00 06 1C
 ## make speed button faster
-080008AC 00 B5 05 4A 13 88 01 20 83 43 13 80 02 DF 13 88 03 42 FB D0 00 BD 00 00 DC 22 00 03
+08000890 00 B5 05 4A 13 88 01 20 83 43 13 80 02 DF 13 88 03 42 FB D0 00 BD C0 46 0C 31 00 03 //updated
 ## Trick usable for wild/trainer Pokemon
 08054EDA 02
 ## undo disable resetting effect byte
