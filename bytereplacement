@@ -24,7 +24,7 @@
 0806ADFC 0E E0
 0806B3E4 00 00
 ## nop cmd6
-0831BD28 41 06 05 08
+08250134 21 78 02 08 //updated
 ## smellingsalts text now allows all conditions
 085CA024 FD 00 AB FF
 ## intimidate uses bank attacker
