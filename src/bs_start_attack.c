@@ -6,6 +6,7 @@
 #include "new_battle_struct.h"
 #include "static_references.h"
 
+u8 weather_abilities_effect();
 u8 check_mega_condition(u8 bank);
 u8 find_move_in_table(u16 move, u16 table_ptr[]);
 
