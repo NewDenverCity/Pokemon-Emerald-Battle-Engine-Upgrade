@@ -45,3 +45,7 @@
 08054EDA 02
 ## undo disable resetting effect byte
 08049AA2 05 48 00 21 C1 70
+## air lock cacophony index fix
+08042700 4C
+08042752 4C
+08033B84 4C
