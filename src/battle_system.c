@@ -1373,9 +1373,16 @@ u8 ability_battle_effects(u8 switch_id, u8 bank, u8 ability_to_check, u8 special
         }
         break;
     case 6: //check castform and cherrim
-        {
-            break;
+       	for (u8 i = 0; i < no_of_all_banks; i++)
+       	{		
+                if(battle_participants[bank].ability_id==ABILITY_FORECAST && has_ability_effect(bank,0,1))
+                {
+                        effect = prepare_castform_switch(castform_switch(bank), bank);
+                        if (effect == true)
+                                    break;
+                }
         }
+    break;
     case 7: //user's synchronize
         adder=0x40;
     case 8: //target's synchronize after static etc.
@@ -1477,7 +1484,7 @@ u8 ability_battle_effects(u8 switch_id, u8 bank, u8 ability_to_check, u8 special
                     effect = i + 1;
                     break;
                 }
-                else if (battle_participants[i].ability_id == ability_to_check && special_cases_argument == 0xFF && has_ability_effect(i, special_cases_argument, 1))
+                else if (battle_participants[i].ability_id == ability_to_check && has_ability_effect(i, special_cases_argument, 1))
                 {
                     effect = i + 1;
                     last_used_ability = ability_to_check;
