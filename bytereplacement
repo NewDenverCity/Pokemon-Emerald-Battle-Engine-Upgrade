@@ -35,10 +35,10 @@
 085CA046 13
 085CA030 13
 ## magnitude calc not changing the target bank
-08053E56 00 00
-08053E8A 00 00
+0802B0CE 00 00 //updated
+0802B102 00 00 //updated
 ## spite always taking 4pp
-080532EA 04 20 00 00 06 1C
+0802A562 04 20 00 00 06 1C //updated
 ## make speed button faster
 08000890 00 B5 05 4A 13 88 01 20 83 43 13 80 02 DF 13 88 03 42 FB D0 00 BD C0 46 0C 31 00 03 //updated
 ## Trick usable for wild/trainer Pokemon
