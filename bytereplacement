@@ -4,8 +4,6 @@
 081C1754 40 B4 02 26 11 49 08 47
 ## move delimiters
 080D75FC C0 46 C0 46 C0 46 //updated
-080D7EAE C0 46 C0 46 C0 46 //updated
-080D7E96 C0 46 C0 46 C0 46 //updated
 ## auxilliary table type delimiter
 0856EFDE 13
 0856EFE6 13
