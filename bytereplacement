@@ -40,10 +40,10 @@
 ## make speed button faster
 08000890 00 B5 05 4A 13 88 01 20 83 43 13 80 02 DF 13 88 03 42 FB D0 00 BD C0 46 0C 31 00 03 //updated
 ## Trick usable for wild/trainer Pokemon
-08054EDA 02
+0802C106 02 //updated
 ## undo disable resetting effect byte
 08049AA2 05 48 00 21 C1 70
 ## air lock cacophony index fix
-08042700 4C
-08042752 4C
-08033B84 4C
+08019DF0 4C //updated
+08019E42 4C //updated
+0800E270 4C //updaatd
