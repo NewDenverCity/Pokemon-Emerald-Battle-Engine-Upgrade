@@ -1,47 +1,43 @@
-### split icon routine
-Routine_Icon_Moves 081C0F88
-Routine_Icon_Moves 081C1328
-Routine_Icon_Moves 081C17A0
 ### battle command rewrites
-accuracy_calc 0831BD14
-critcalc_cmd4 0831BD20
-damage_calc_cmd_05 0831BD24
-final_damagecalc_cmd7 0831BD2C
+accuracy_calc 08250120 //updated
+critcalc_cmd4 0825012C //updated
+damage_calc_cmd_05 08250130 //updated
+final_damagecalc_cmd7 08250138 //updated
 callasm_cmd 0831BF1C
-atk00_move_canceller 0831BD10
-atk0C_datahpupdate 0831BD40
-atk0F_resultmessage 0831BD4C
-atk13_printfromtable 0831BD5C
-atk42_jump_if_type 0831BE18
-atk49_move_end_turn 0831BE34
-atk56_prepare_fainting_cry 0831BE68
-atk6A_remove_item 0831BEB8
-atk70_record_ability_of_bank 0831BED0
-atk77_set_protect_stuff 0831BEEC
-atk7D_set_rain 0831BF04
-atk7E_set_reflect 0831BF08
-atk7F_set_leech_seed 0831BF0C
-atk88_drain_damage 0831BF30
-atk8D_multihit_move_loop_counter 0831BF44
-atk92_set_lightscreen 0831BF58
-atk93_ko_move 0831BF5C
-atk95_set_sandstorm 0831BF64
-atk96_weather_damage 0831BF68
-atk9E_metronome_chooser 0831BF88
-atkA3_disable_move 0831BF9C
-atkA4_encore_move 0831BFA0
-atkB5_furycutter_calc 0831BFE4
-atkB7_present_calc 0831BFEC
-atkBB_set_sunny 0831BFFC
-atkBE_rapidspin_away 0831C008
-atkC5_hide_pre_attack 0831C024
-atkC6_unhide_post_attack 0831C028
-atkC8_set_hail 0831C030
-atkCC_nature_power 0831C040
-atkD0_set_taunt 0831C050
-atkD4_wish_effect 0831C060
-atkE2_switchout_abilities 0831C098
-atkEB_set_type_to_terrain 0831C0BC
+atk00_move_canceller 0825011C //updated
+atk0C_datahpupdate 0825014C //updated
+atk0F_resultmessage 08250158 //updated
+atk13_printfromtable 08250168 //updated
+atk42_jump_if_type 08250224 //updated
+atk49_move_end_turn 08250240 //updated
+atk56_prepare_fainting_cry 08250274 //updated
+atk6A_remove_item 082502C4 //updated
+atk70_record_ability_of_bank 082502DC //updated
+atk77_set_protect_stuff 082502F8 //updated
+atk7D_set_rain 08250310 //updated
+atk7E_set_reflect 08250314 //updated
+atk7F_set_leech_seed 08250318 //updated
+atk88_drain_damage 0825033C //updated
+atk8D_multihit_move_loop_counter 08250350 //updated
+atk92_set_lightscreen 08250364 //updated
+atk93_ko_move 08250368 //updated
+atk95_set_sandstorm 08250370 //updated
+atk96_weather_damage 08250374 //updated
+atk9E_metronome_chooser 08250394 //updated
+atkA3_disable_move 082503A8 //updated
+atkA4_encore_move 082503AC //updated
+atkB5_furycutter_calc 082503F0 //updated
+atkB7_present_calc 082503F8 //updated
+atkBB_set_sunny 08250408 //updated
+atkBE_rapidspin_away 08250414 //updated
+atkC5_hide_pre_attack 08250430 //updated
+atkC6_unhide_post_attack 08250434 //updated
+atkC8_set_hail 0825043C //updated
+atkCC_nature_power 0825044C //updated
+atkD0_set_taunt 0825045C //updated
+atkD4_wish_effect 0825046C //updated
+atkE2_switchout_abilities 082504A4 //updated
+atkEB_set_type_to_terrain 082504C8 //updated
 ###start attack
 bs_start_attack 0831BC0C
 ###pre attacks
