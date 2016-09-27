@@ -1,17 +1,5 @@
-## move icon routine adjustment
-081C0F4E 40 B4 00 26 0D 49 08 47
-081C12EE 40 B4 01 26 0D 49 08 47
-081C1754 40 B4 02 26 11 49 08 47
 ## move delimiters
 080D75FC C0 46 C0 46 C0 46 //updated
-## auxilliary table type delimiter
-0856EFDE 13
-0856EFE6 13
-## pokemon type delimiter
-0861CFC1 30
-## pokemom type pallet tweaks
-08D97BC1 FF 66
-08D97BC8 3D 66
 ## Negates encryption substructure pokemon
 0803F94C 00 20 00 00 00 00 //updated
 0803FDA8 0B E0 //updated
