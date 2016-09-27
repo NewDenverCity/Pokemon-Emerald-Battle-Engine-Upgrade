@@ -24,14 +24,14 @@
 ## nop cmd6
 08250134 21 78 02 08 //updated
 ## smellingsalts text now allows all conditions
-085CA024 FD 00 AB FF
+083FB7B4 FD 00 AB FF //updated
 ## intimidate uses bank attacker
 083FC881 18 //updated
 083FC87C 0F //updated
 ## battlestring for stat change now uses scripting active and not target/attacker banks because of a certain problem
-085CA05F 13
-085CA046 13
-085CA030 13
+083FB7C0 13 //updated
+083FB7D6 13 //updated
+083FB7EF 13 //updated
 ## magnitude calc not changing the target bank
 0802B0CE 00 00 //updated
 0802B102 00 00 //updated
