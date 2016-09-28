@@ -9,62 +9,38 @@ ability_desc_table 081C3078
 ### move animations repoint
 move_animations_table 080A3A44
 ### move names repoint
-move_names_table 08000148
-move_names_table 08059B14
-move_names_table 08079B54
-move_names_table 0809B18C
-move_names_table 080D85F8
-move_names_table 080D8F34
-move_names_table 080D9A90
-move_names_table 080D9E50
-move_names_table 080D9F38
-move_names_table 080DD4CC
-move_names_table 080E0C1C
-move_names_table 080F1900
-move_names_table 080F2F8C
-move_names_table 080F3260
-move_names_table 080F3330
-move_names_table 080F378C
-move_names_table 080F4278
-move_names_table 080F457C
-move_names_table 080F4758
-move_names_table 080F47E0
-move_names_table 080F480C
-move_names_table 080F4830
-move_names_table 080F4870
-move_names_table 080FE014
-move_names_table 0811EB9C
-move_names_table 08139908
-move_names_table 0813ACB4
-move_names_table 0813ACE4
-move_names_table 0814E554
-move_names_table 0814EF94
-move_names_table 0814F730
-move_names_table 08160B54
-move_names_table 08160DFC
-move_names_table 08161048
-move_names_table 0816136C
-move_names_table 0816481C
-move_names_table 081930B4
-move_names_table 081A0618
-move_names_table 081A10D8
-move_names_table 081A10F0
-move_names_table 081AB3F8
-move_names_table 081B6AB0
-move_names_table 081B6CB0
-move_names_table 081B6E60
-move_names_table 081B6F4C
-move_names_table 081B71C4
-move_names_table 081B7280
-move_names_table 081B7354
-move_names_table 081B73D4
-move_names_table 081B78FC
-move_names_table 081B798C
-move_names_table 081B7EE8
-move_names_table 081B976C
-move_names_table 081C3BEC
-move_names_table 081C3FCC
-move_names_table 081C4050
+move_names_table 08000148 //updated
+move_names_table 080308A4 //updated
+move_names_table 0804EF84 //updated
+move_names_table 0806BE8C //updated
+move_names_table 0809B524 //updated
+move_names_table 080BD830 //updated
+move_names_table 080BFAA4 //updated
+move_names_table 080CC914 //updated
+move_names_table 080D764C //updated
+move_names_table 080D7EE0 //updated
+move_names_table 080D8500 //updated
+move_names_table 080E4E58 //updated
+move_names_table 080E51F0 //updated
+move_names_table 0810D9C0 //updated
+move_names_table 081140F0 //updated
+move_names_table 0811C5A8 //updated
+move_names_table 0811C6E4 //updated
+move_names_table 081256BC //updated
+move_names_table 08125948 //updated
+move_names_table 08125A2C //updated
+move_names_table 08125BE4 //updated
+move_names_table 08125CE0 //updated
+move_names_table 08125FF8 //updated
+move_names_table 0812606C //updated
+move_names_table 08126128 //updated
+move_names_table 081261FC //updated
+move_names_table 0812627C //updated
+move_names_table 081267F0 //updated
+move_names_table 08126880 //updated
+move_names_table 08126E64 //updated
+move_names_table 08131E14 //updated
+move_names_table 0813695C //updated
 ### move descriptions repoint
 move_desc_table 081C3EFC
 move_desc_table 081D2AC8
@@ -225,7 +201,7 @@ type_names 08059C24
 type_names 0814F740
 type_names 081D2A30
 ### moxie battlescript
-moxie_bs 080213DC  /* updated */
+moxie_bs 080213DC  /*updated*/
 ##### battle animation backgrounds
 battle_anim_bg_table 080A5038
 battle_anim_bg_table 080A5084
