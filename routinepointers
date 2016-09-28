@@ -3,7 +3,7 @@ accuracy_calc 08250120 //updated
 critcalc_cmd4 0825012C //updated
 damage_calc_cmd_05 08250130 //updated
 final_damagecalc_cmd7 08250138 //updated
-callasm_cmd 0831BF1C
+callasm_cmd 08250328 //updated maybe
 atk00_move_canceller 0825011C //updated
 atk0C_datahpupdate 0825014C //updated
 atk0F_resultmessage 08250158 //updated
@@ -39,7 +39,7 @@ atkD4_wish_effect 0825046C //updated
 atkE2_switchout_abilities 082504A4 //updated
 atkEB_set_type_to_terrain 082504C8 //updated
 ###start attack
-bs_start_attack 0831BC0C
+bs_start_attack 08250038 //updated
 ###pre attacks
-bc_preattacks 0803D43C
-bc_preattacks 0803D578
+bc_preattacks 080151EC //updated
+bc_preattacks 08015328 //updated
