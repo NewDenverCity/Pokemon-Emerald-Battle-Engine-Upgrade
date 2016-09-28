@@ -96,6 +96,46 @@ move_table 0801EDB4
 move_table 0801EDE4
 move_table 0801EE94
 move_table 0801EFC8
+move_table 0801F030
+move_table 0801F0C4
+move_table 0801F258
+move_table 0801F53C
+move_table 0801F750
+move_table 08021158
+move_table 08021190
+move_table 0802334C
+move_table 08023490
+move_table 0802393C
+move_table 08023B14
+move_table 08023C20
+move_table 08023C9C
+move_table 08023E6C
+move_table 080240C4
+move_table 08025CFC
+move_table 08026100
+move_table 0802704C
+move_table 08027468
+move_table 080286A0
+move_table 08028744
+move_table 08028A6C
+move_table 08028B4C
+move_table 08029434
+move_table 080296AC
+move_table 080297F4
+move_table 0802A180
+move_table 0802A1F0
+move_table 0802A27C
+move_table 0802AD00
+move_table 0802AE18
+move_table 0802AE50
+move_table 0802BAC0
+move_table 0802BE84
+move_table 0802C6C0
+move_table 0802D014
+move_table 0802E8B4
+move_table 0802E9F4
+move_table 0802EA9C
+move_table 080309C0
 ### move pp reference repoint
 move_table 08038850 4
 move_table 080389f8 4
