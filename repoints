@@ -8,39 +8,39 @@ ability_desc_table 080001C4
 ability_desc_table 081C3078
 ### move animations repoint
 move_animations_table 080A3A44
-### move names repoint
-move_names_table 08000148 //updated
-move_names_table 080308A4 //updated
-move_names_table 0804EF84 //updated
-move_names_table 0806BE8C //updated
-move_names_table 0809B524 //updated
-move_names_table 080BD830 //updated
-move_names_table 080BFAA4 //updated
-move_names_table 080CC914 //updated
-move_names_table 080D764C //updated
-move_names_table 080D7EE0 //updated
-move_names_table 080D8500 //updated
-move_names_table 080E4E58 //updated
-move_names_table 080E51F0 //updated
-move_names_table 0810D9C0 //updated
-move_names_table 081140F0 //updated
-move_names_table 0811C5A8 //updated
-move_names_table 0811C6E4 //updated
-move_names_table 081256BC //updated
-move_names_table 08125948 //updated
-move_names_table 08125A2C //updated
-move_names_table 08125BE4 //updated
-move_names_table 08125CE0 //updated
-move_names_table 08125FF8 //updated
-move_names_table 0812606C //updated
-move_names_table 08126128 //updated
-move_names_table 081261FC //updated
-move_names_table 0812627C //updated
-move_names_table 081267F0 //updated
-move_names_table 08126880 //updated
-move_names_table 08126E64 //updated
-move_names_table 08131E14 //updated
-move_names_table 0813695C //updated
+### move names repoint //updated
+move_names_table 08000148
+move_names_table 080308A4
+move_names_table 0804EF84
+move_names_table 0806BE8C
+move_names_table 0809B524
+move_names_table 080BD830
+move_names_table 080BFAA4
+move_names_table 080CC914
+move_names_table 080D764C
+move_names_table 080D7EE0
+move_names_table 080D8500
+move_names_table 080E4E58
+move_names_table 080E51F0
+move_names_table 0810D9C0
+move_names_table 081140F0
+move_names_table 0811C5A8
+move_names_table 0811C6E4
+move_names_table 081256BC
+move_names_table 08125948
+move_names_table 08125A2C
+move_names_table 08125BE4
+move_names_table 08125CE0
+move_names_table 08125FF8
+move_names_table 0812606C
+move_names_table 08126128
+move_names_table 081261FC
+move_names_table 0812627C
+move_names_table 081267F0
+move_names_table 08126880
+move_names_table 08126E64
+move_names_table 08131E14
+move_names_table 0813695C
 ### move descriptions repoint
 move_desc_table 081C3EFC
 move_desc_table 081D2AC8
@@ -136,12 +136,58 @@ move_table 0802E8B4
 move_table 0802E9F4
 move_table 0802EA9C
 move_table 080309C0
-### move pp reference repoint
-move_table 08038850 4
-move_table 080389f8 4
-move_table 08069188 4
-move_table 08069230 4
-move_table 0806b82c 4
+move_table 08033B40
+move_table 08038670
+move_table 080386BC
+move_table 0803941C
+move_table 08039468
+move_table 0803962C
+move_table 080398C4
+move_table 0803A194
+move_table 0803E94C
+move_table 0803E9D0
+move_table 0803EC3C
+move_table 0803ECE8
+move_table 0803ED3C
+move_table 0803ED60
+move_table 0803F254
+move_table 0803F3B4
+move_table 0803F510
+move_table 0804105C
+move_table 080C7D90
+move_table 080C7E00
+move_table 080C7F34
+move_table 080C7F5C
+move_table 080C80AC
+move_table 080C8414
+move_table 080C8924
+move_table 080C8970
+move_table 080C8BD4
+move_table 080C8CBC
+move_table 080C8F2C
+move_table 080C8FA4
+move_table 080C9030
+move_table 080C9084
+move_table 080C946C
+move_table 080C9498
+move_table 080C94C4
+move_table 080E5380
+move_table 080E53CC
+move_table 080E543C
+move_table 081334D8
+move_table 08133528
+move_table 081335AC
+move_table 081336F0
+move_table 08133878
+move_table 08136950
+move_table 08136A64
+move_table 08136AB4
+### move pp reference repoint //updated
+move_table 08011510 4
+move_table 080116C0 4
+move_table 0803E8F8 4
+move_table 0803E9A0 4
+move_table 08040EE0 4
 ### image type chart
 img_type_chart 0861CFBC
 ### image type icons position
