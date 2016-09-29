@@ -209,20 +209,20 @@ type_names 081D2A30
 moxie_bs 080213DC
 ##### battle animation backgrounds //updated
 battle_anim_bg_table 08073960
-##### battle animation particles
-battle_particle_table 080A3DD0
-battle_particle_table 080A40BC
-shiny_particle_image 08172FB8
-shiny_particle_pallet 08172FBC
-battle_particle_table 080A3D74 -80000
-battle_particle_pallets 080A3D78 -80000
-### move battlescript table
-battlescripts_table 0803E854
-battlescripts_table 0804E9EC
-battlescripts_table 08050288
-battlescripts_table 08052578
-battlescripts_table 08054C54
-battlescripts_table 0804BCE4
+##### battle animation particles //updated
+battle_particle_table 08072914
+battle_particle_table 08072BF8
+shiny_particle_image 080F17E8
+shiny_particle_pallet 080F17EC
+battle_particle_table 080728B8 -80000
+battle_particle_pallets 080728BC -80000
+### move battlescript table //updated
+battlescripts_table 08016364
+battlescripts_table 08023328
+battlescripts_table 08025CF8
+battlescripts_table 08027464
+battlescripts_table 080297F0
+battlescripts_table 0802BE80
 ### New Animation Table //updated
 NewPlayAnimationTable 08034150
 ### Pursuit mega evolution
