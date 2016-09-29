@@ -1,11 +1,11 @@
-### ability names repoint
+### ability names repoint //updated
 ability_names_table 080001C0
-ability_names_table 0814F0D4
-ability_names_table 0814F854
-ability_names_table 081C3028
-### ability descriptions repoint
+ability_names_table 080D8004
+ability_names_table 080D8624
+ability_names_table 081367A0
+### ability descriptions repoint //updated
 ability_desc_table 080001C4
-ability_desc_table 081C3078
+ability_desc_table 081367A8
 ### move animations repoint
 move_animations_table 080A3A44
 ### move names repoint //updated
