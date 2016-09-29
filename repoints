@@ -6,8 +6,8 @@ ability_names_table 081367A0
 ### ability descriptions repoint //updated
 ability_desc_table 080001C4
 ability_desc_table 081367A8
-### move animations repoint
-move_animations_table 080A3A44
+### move animations repoint //updated
+move_animations_table 080725D0
 ### move names repoint //updated
 move_names_table 08000148
 move_names_table 080308A4
@@ -41,9 +41,9 @@ move_names_table 08126880
 move_names_table 08126E64
 move_names_table 08131E14
 move_names_table 0813695C
-### move descriptions repoint
-move_desc_table 081C3EFC
-move_desc_table 081D2AC8
+### move descriptions repoint //updated
+move_desc_table 080E5440
+move_desc_table 08137BC8
 ### move data repoint //updated
 move_table 080001CC
 move_table 0800E3D8
@@ -207,9 +207,8 @@ type_names 0814F740
 type_names 081D2A30
 ### moxie battlescript //updated
 moxie_bs 080213DC
-##### battle animation backgrounds
-battle_anim_bg_table 080A5038
-battle_anim_bg_table 080A5084
+##### battle animation backgrounds //updated
+battle_anim_bg_table 08073960
 ##### battle animation particles
 battle_particle_table 080A3DD0
 battle_particle_table 080A40BC
@@ -224,7 +223,7 @@ battlescripts_table 08050288
 battlescripts_table 08052578
 battlescripts_table 08054C54
 battlescripts_table 0804BCE4
-### New Animation Table
-NewPlayAnimationTable 0805DA3C
+### New Animation Table //updated
+NewPlayAnimationTable 08034150
 ### Pursuit mega evolution
 pursuit_megaevo_bs 082DAB3F
